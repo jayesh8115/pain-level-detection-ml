@@ -246,11 +246,6 @@ with c2:
 
         st.switch_page("pages/Predict.py")
 
-with c3:
-
-    if st.button("📄 View Reports"):
-
-        st.switch_page("pages/Reports.py")
 
 # -------------------------------------------------------
 # Sidebar
